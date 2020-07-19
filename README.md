@@ -6,6 +6,7 @@ Data Source: https://www.kaggle.com/CooperUnion/anime-recommendations-database
 
 ## Collaborators in the project
 Atharva Parte
+
 Shraddha Sahu
 
 ## Getting Started
